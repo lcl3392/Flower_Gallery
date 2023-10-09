@@ -1,7 +1,7 @@
 {
   "homepage": "http://lcl3392.github.io/Flower_Gallery",
   "name": "day14",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
